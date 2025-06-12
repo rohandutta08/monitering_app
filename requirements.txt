@@ -6,7 +6,7 @@ AppKit
 plyer
 waitress
 # flask
-apscheduler
+# apscheduler
 time
 msal
 PIL
