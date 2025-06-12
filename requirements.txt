@@ -1,0 +1,14 @@
+pyautogui
+requests
+browser-history
+psutil
+AppKit
+plyer
+waitress
+flask
+apscheduler
+time
+msal
+PIL
+base64
+pillow
