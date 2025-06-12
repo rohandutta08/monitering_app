@@ -1,0 +1,6 @@
+{
+  "server_url": "https://your-server.onrender.com/",  // update this
+  "device_id": "auto",
+  "check_update_interval": 3600,
+  "current_version": "1.0.0"
+}
