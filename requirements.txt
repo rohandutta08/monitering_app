@@ -5,8 +5,8 @@ psutil
 AppKit
 plyer
 waitress
-flask
-# apscheduler
+# flask
+apscheduler
 time
 msal
 PIL
